@@ -2,6 +2,6 @@
 ## priyanka-kishore.github.io
 
 
-Hi! This is the **GitHub repository** hosting my personal portfolio website throughout [GitHub pages](https://pages.github.com/).
+Hi! This is the GitHub repository hosting my **personal portfolio** website through [GitHub pages](https://pages.github.com/).
 
-Visit it here: priyanka-kishore.github.io/.
+Visit it here: [priyanka-kishore.github.io/](https://priyanka-kishore.github.io).
