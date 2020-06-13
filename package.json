@@ -1,0 +1,22 @@
+{
+  "name": "priyanka-kishore.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanka-kishore/priyanka-kishore.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanka-kishore/priyanka-kishore.github.io/issues"
+  },
+  "homepage": "https://github.com/priyanka-kishore/priyanka-kishore.github.io#readme",
+  "dependencies": {
+    "darkmode-js": "^1.5.6"
+  }
+}
