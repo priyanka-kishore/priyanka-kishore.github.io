@@ -1,0 +1,38 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 20px;
+    left: 10px;
+    background: none;
+    overflow-x: hidden;
+    padding: 8px 0;
+
+    /* The following centers the div vertically even when scrolling: */
+    /* margin: 0;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%); */
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #2196F3;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #064579;
+}
+
+.section {
+    margin-left: 140px; /* Same width as the sidebar + left position in px */
+    /* font-size: 28px; Increased text to enable scrolling */
+    padding: 0px 10px;
+}
