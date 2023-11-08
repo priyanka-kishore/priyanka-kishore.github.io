@@ -1,5 +1,5 @@
 <template>
-  This is the home page
+  This is the find me page
 </template>
 <script setup lang="ts">
 
