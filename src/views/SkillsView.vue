@@ -1,5 +1,5 @@
 <template>
-  This is the home page
+  This is the skills page
 </template>
 <script setup lang="ts">
 
